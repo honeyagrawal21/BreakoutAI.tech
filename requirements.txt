@@ -1,0 +1,8 @@
+# Specify Python version
+python==3.10.15
+
+# Required libraries and their versions
+streamlit==1.40.1
+python-dotenv==1.0.0
+pandas==2.0.3
+google-api-python-client==2.84.0
